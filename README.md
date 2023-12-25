@@ -1,4 +1,4 @@
-# Gesture-Mouse-Controller
+# Python-Gesture-Mouse-Controller
 This is a gesture mouse controller built with python 3.11, pyautogui, opencv, and mediapipe.
 
 # How to use
